@@ -1,0 +1,58 @@
+body {
+    background-color: #c2c2d6;
+    font-family: "Abril Fatface", cursive;
+  }
+  
+  .square {
+    height: 100vh;
+  }
+  
+  #calInterface {
+    background-color: black;
+    height: 410px;
+    width:345px;
+  }
+  
+  #input,
+  #output {
+    text-align: end;
+    font-size: large;
+    padding: 2px;
+  }
+  
+  #input{
+    color:yellow;
+  }
+
+  #output{
+    color:white;
+  }
+
+  button {
+    width: 80px;
+    height: 65px;
+    margin: 1px;
+  }
+  
+  #reset,
+  #zero {
+    width: 162px;
+    height: 65px;
+  }
+  
+  #equal {
+    height: 130px;
+    width: 80px;
+    background-color: #004466;
+    position: relative;
+    left: 251px;
+    top: -133px;
+  }
+  
+  p {
+    margin-top: 20px;
+    color: white;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    text-align: center;
+  }
+  
