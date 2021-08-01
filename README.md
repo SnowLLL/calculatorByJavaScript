@@ -1,4 +1,4 @@
-# [Calculator]
+# [Calculator](https://snowlll.github.io/calculatorByJavaScript/)
 
 ```diff
 + TECH STACK
@@ -21,4 +21,3 @@
   - To display input
   - To calculate the result :chart:
   - ![GitHub Logo](/images/0.png)
-  - ![GitHub Logo](/images/1.png)
