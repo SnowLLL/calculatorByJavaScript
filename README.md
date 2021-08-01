@@ -1,4 +1,4 @@
-# [Calculator](https://snowlll.github.io/calculatorByJavaScript/)
+# [Calculator](https://snowlll.github.io/calculatorByJavaScript/):receipt:
 
 ```diff
 + TECH STACK
